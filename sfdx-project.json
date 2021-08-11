@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "sfdx-chan",
+  "name": "sfdx-dreamhouse",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
