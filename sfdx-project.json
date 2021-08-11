@@ -1,12 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Dreamhouse",
+            "versionName": "Version 2.0",
+            "versionNumber": "2.0.0.NEXT"
+        }
+    ],
+    "name": "sfdx-dreamhouse",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "Dreamhouse": "0Ho5e000000PBlhCAG",
+        "Dreamhouse@2.0.0-1": "04t5e000000GfXLAA0"
     }
-  ],
-  "name": "sfdx-dreamhouse",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
 }
